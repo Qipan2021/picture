@@ -1,4 +1,3 @@
 # picture
--- token: 1b724779d618d0dd120de3611cdc1039f57f3bd1
-
+-- token: 0fda302e79a71d4403e0aab2249695fdb7f9d9fa
 -- computer-picture: 计算机组成原理 md 文件图片
